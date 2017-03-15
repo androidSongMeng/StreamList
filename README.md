@@ -5,7 +5,7 @@
 ![](https://github.com/androidSongMeng/StreamList/raw/master/2.png)
 
 How to use?
-	TabTab dependencies {
+	TabTabdependencies {
 	        compile 'com.github.androidSongMeng:StreamList:1.0'
 	}
 
