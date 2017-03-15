@@ -7,9 +7,21 @@
 [![](https://jitpack.io/v/androidSongMeng/StreamList.svg)](https://jitpack.io/#androidSongMeng/StreamList)
 
 
-demo是用Module方式依赖，你也可以使用gradle 依赖:
+## How to use?
+ #### Step 1. Add the JitPack repository to your build file
 ```java
-   compile 'com.github.androidSongMeng:StreamList:1.0'
+  allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+#### Step 2. Add the dependency
+```java
+  dependencies {
+	        compile 'com.github.androidSongMeng:StreamList:v1.0.1'
+	}
 ```
 
 ### config in java code
