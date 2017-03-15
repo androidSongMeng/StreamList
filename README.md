@@ -7,3 +7,6 @@ How to use?
 	        compile 'com.github.androidSongMeng:StreamList:1.0'
 	}
 
+
+#Demo
+
