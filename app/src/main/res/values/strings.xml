@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">mySwip</string>
+    <string name="text">{
+    "list": [
+        {
+            "id": "0bbb59d0ecbb4baabd30898232d3e41c",
+            "isNewRecord": false,
+            "createDate": "2017-03-13 18:01:18",
+            "updateDate": "2017-03-13 18:01:18",
+            "locName": "河南省郑州玩具大厦",
+            "locAddress": "红专路71-1",
+            "locX": "113.692365",
+            "locY": "34.785537",
+            "locTelephone": "18703867846",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "0f51d5c9081c4ee597cade6781894468",
+            "isNewRecord": false,
+            "createDate": "2017-03-13 18:01:18",
+            "updateDate": "2017-03-13 18:01:18",
+            "locName": "河南省郑州玩具1大厦",
+            "locAddress": "红专路71-1",
+            "locX": "113.692365",
+            "locY": "34.785537",
+            "locTelephone": "18703867846",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "c118b5f5edef446c9503d38630047714",
+            "isNewRecord": false,
+            "createDate": "2017-03-13 18:01:18",
+            "updateDate": "2017-03-13 18:01:18",
+            "locName": "河南省郑州玩具2大厦",
+            "locAddress": "红专路71-1",
+            "locX": "113.692365",
+            "locY": "34.785537",
+            "locTelephone": "18703867846",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "b47d06a4efba488aa95b1ec239cacd9f",
+            "isNewRecord": false,
+            "createDate": "2017-03-12 10:34:24",
+            "updateDate": "2017-03-13 18:00:43",
+            "locName": "河南省遥感测绘院",
+            "locAddress": "黄河路8号",
+            "locX": "113.693531",
+            "locY": "34.780511",
+            "locTelephone": "95555",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "06832b85c23448adb308f4d993864178",
+            "isNewRecord": false,
+            "createDate": "2017-03-13 18:00:33",
+            "updateDate": "2017-03-13 18:00:33",
+            "locName": "河南省郑州玩具大厦",
+            "locAddress": "红专路71-1",
+            "locX": "113.692365",
+            "locY": "34.785537",
+            "locTelephone": "18703867846",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "b3afa49fc4244a698803b58c5b82bcb3",
+            "isNewRecord": false,
+            "createDate": "2017-03-12 10:34:25",
+            "updateDate": "2017-03-13 17:54:37",
+            "locName": "河南省测绘发展研究中心",
+            "locAddress": "郑州市金水区",
+            "locX": "113.693443",
+            "locY": "34.780546",
+            "locTelephone": "95555",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "40f8ff931ed2418d8dc36f8bb8001db0",
+            "isNewRecord": false,
+            "createDate": "2017-03-12 10:34:25",
+            "updateDate": "2017-03-13 17:54:30",
+            "locName": "河南省基础地理信息中心",
+            "locAddress": "黄河路8号5楼",
+            "locX": "113.693443",
+            "locY": "34.780546",
+            "locTelephone": "95555",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "5ead2e1b87e24abf82d5220c882eec57",
+            "isNewRecord": false,
+            "createDate": "2017-03-12 10:34:24",
+            "updateDate": "2017-03-12 10:34:24",
+            "locName": "河南省测绘工程院",
+            "locAddress": "黄河路8号",
+            "locX": "113.693539",
+            "locY": "34.780509",
+            "locTelephone": "65528916",
+            "locLeader": "lyj"
+        },
+        {
+            "id": "9409a8854aad4f3f94089b65460805ae",
+            "isNewRecord": false,
+            "createDate": "2017-03-12 10:34:24",
+            "updateDate": "2017-03-12 10:34:24",
+            "locName": "河南省测绘地理信息局",
+            "locAddress": "纬二路与政一街交叉口北",
+            "locX": "113.693712",
+            "locY": "34.773493",
+            "locTelephone": "65953524",
+            "locLeader": "lyj"
+        }
+    ],
+    "code": "200"
+}</string>
+</resources>

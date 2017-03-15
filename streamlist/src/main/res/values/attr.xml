@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="item">
+
+        <attr name="textSize" format="integer" />
+        <attr name="textColor" format="string" />
+        <attr name="horizontalSpace" format="integer" />
+        <attr name="verticalSpace" format="integer" />
+    </declare-styleable>
+</resources>
