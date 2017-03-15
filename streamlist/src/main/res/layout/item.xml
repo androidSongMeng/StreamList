@@ -14,9 +14,8 @@
         android:id="@+id/tv_item"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@android:color/black"
         android:text="大海"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/holo_red_dark"
         android:textSize="16sp" />
 
     <ImageView
