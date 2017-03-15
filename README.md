@@ -88,7 +88,8 @@
 </LinearLayout>
 ```
 
-### 同事还可以动态的添加item
+### 同时还可以动态的添加item
   ```java
    streamList.add("sffffffff");
 ```
+
