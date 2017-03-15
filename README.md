@@ -4,6 +4,9 @@
 ![](https://github.com/androidSongMeng/StreamList/raw/master/1.png)
 ![](https://github.com/androidSongMeng/StreamList/raw/master/2.png)
 
+[![](https://jitpack.io/v/androidSongMeng/StreamList.svg)](https://jitpack.io/#androidSongMeng/StreamList)
+
+
 demo是用Module方式依赖，你也可以使用gradle 依赖:
 ```java
    compile 'com.github.androidSongMeng:StreamList:1.0'
