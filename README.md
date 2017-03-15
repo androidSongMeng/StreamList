@@ -27,7 +27,7 @@
 ### config in java code
 
 ```java
-   co<com.example.streamlist.StreamList
+   <com.example.streamlist.StreamList
         android:id="@+id/sl"
         app:textSize="15"
         app:textColor="#FF8040"
