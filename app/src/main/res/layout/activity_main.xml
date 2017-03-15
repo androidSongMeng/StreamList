@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -9,90 +10,15 @@
 
     <com.example.streamlist.StreamList
         android:id="@+id/sl"
+        app:textSize="15"
+        app:textColor="#FF8040"
+        app:horizontalSpace="10"
+        app:verticalSpace="10"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
-        android:paddingTop="10dp">
-
-        <!-- <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="dafgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="sgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="sfsf"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="w"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />
-
-         <TextView
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
-             android:background="@drawable/shape"
-             android:text="wewrgg"
-             android:textSize="20sp" />-->
-
-    </com.example.streamlist.StreamList>
+        android:paddingTop="10dp"/>
 
     <Button
         android:layout_width="match_parent"

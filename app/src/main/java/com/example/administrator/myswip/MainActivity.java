@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
         list.add("驻马店");
         list.add("信仰");
         streamList = (StreamList) findViewById(R.id.sl);
-        streamList.setType(Contant.TEXT_DELETE);
+        streamList.setType(Contant.VIEW_TEXT_DELETE);
+        streamList.setViewResouce(R.layout.item);
         streamList.setData(list);
     }
 
